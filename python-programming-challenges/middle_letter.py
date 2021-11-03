@@ -1,4 +1,4 @@
-def mid( str ):
+def mid(str):
     length = len(str)
     half = int(length/2)
     if (length % 2 == 0):

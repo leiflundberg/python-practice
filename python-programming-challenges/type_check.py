@@ -6,4 +6,3 @@ def only_ints(a, b):
 print(only_ints(1, 2))
 
 print(only_ints(1.0, 2))
-

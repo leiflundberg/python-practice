@@ -1,4 +1,4 @@
-def capital_indexes( str ):
+def capital_indexes(str):
     result = []
     for i, v in enumerate(str):
         if (v.isupper()):
